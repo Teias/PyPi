@@ -1,6 +1,6 @@
 #   A simple program which counts the number of columns 
 #   and rows available on the terminal screen
-#   2013-03-03
+#   03/05/2013
 
 import curses  # Import the curses module
 import time
